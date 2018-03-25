@@ -1,0 +1,6 @@
+ Client type: Writer
+Client Name: 4
+rSeq sSeq 
+3    9
+26    25
+40    40

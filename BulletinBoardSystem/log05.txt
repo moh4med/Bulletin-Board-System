@@ -1,0 +1,6 @@
+ Client type: Reader
+Client Name: 6
+rSeq sSeq oVal
+10    10    0    
+20    20    3    
+21    21    3    
